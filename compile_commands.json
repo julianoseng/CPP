@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/julianoseng/Documents/CPP/FirstProgram/main.cpp",
+  "directory": "/Users/julianoseng/Documents/CPP",
+  "command": "/usr/bin/clang++ -c /Users/julianoseng/Documents/CPP/FirstProgram/main.cpp -o /Users/julianoseng/Documents/CPP/FirstProgram/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+ }, {
+  "file": "/Users/julianoseng/Documents/CPP/workspace1/main.cpp",
+  "directory": "/Users/julianoseng/Documents/CPP",
+  "command": "/usr/bin/clang++ -c /Users/julianoseng/Documents/CPP/workspace1/main.cpp -o /Users/julianoseng/Documents/CPP/workspace1/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+ }, {
+  "file": "/Users/julianoseng/Documents/CPP/Project2/main.cpp",
+  "directory": "/Users/julianoseng/Documents/CPP",
+  "command": "/usr/bin/clang++ -c /Users/julianoseng/Documents/CPP/Project2/main.cpp -o /Users/julianoseng/Documents/CPP/Project2/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+ }]
