@@ -1,9 +1,13 @@
 [{
-  "file": "/Users/julianoseng/Documents/CPP/variables_and_stuff/main.cpp",
-  "directory": "/Users/julianoseng/Documents/CPP/variables_and_stuff",
-  "command": "/usr/bin/g++ -c /Users/julianoseng/Documents/CPP/variables_and_stuff/main.cpp -o /Users/julianoseng/Documents/CPP/variables_and_stuff/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -std=c++17  -Wall"
+  "file": "C:\\Code\\CPP\\Constants\\main.cpp",
+  "directory": "C:\\Code\\CPP\\Constants",
+  "command": "C:/MinGW64/bin/g++.exe -c C:\\Code\\CPP\\Constants\\main.cpp -o C:\\Code\\CPP\\Constants\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
  }, {
-  "file": "/Users/julianoseng/Documents/CPP/FirstProgram/main.cpp",
-  "directory": "/Users/julianoseng/Documents/CPP",
-  "command": "/usr/bin/clang++ -c /Users/julianoseng/Documents/CPP/FirstProgram/main.cpp -o /Users/julianoseng/Documents/CPP/FirstProgram/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+  "file": "C:\\Code\\CPP\\variables_and_stuff\\main.cpp",
+  "directory": "C:\\Code\\CPP\\variables_and_stuff",
+  "command": "C:/MinGW64/bin/g++.exe -c C:\\Code\\CPP\\variables_and_stuff\\main.cpp -o C:\\Code\\CPP\\variables_and_stuff\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW64\\x86_64-w64-mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Code\\CPP\\FirstProgram\\main.cpp",
+  "directory": "C:\\Code\\CPP",
+  "command": "C:/MinGW64/bin/g++.exe -c C:\\Code\\CPP\\FirstProgram\\main.cpp -o C:\\Code\\CPP\\FirstProgram\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include -IC:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW64\\x86_64-w64-mingw32\\include -I. -I.  -g -Wall"
  }]

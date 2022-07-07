@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CPP" Database="" Version="10000">
-  <Project Name="Project1" Path="../workspace1/workspace1.project" Active="No"/>
-  <Project Name="Project2" Path="../Project2/Project2.project" Active="No"/>
   <Project Name="FirstProgram" Path="../FirstProgram/FirstProgram.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
