@@ -1,9 +1,9 @@
 {
  "file_mask": "*.cpp;*.h;*.hpp;*.cxx;*.cc;*.hxx",
  "ignore_spec": "/.git/;/.svn/;/build/;/build-;/CPack_Packages/;/CMakeFiles/",
- "codelite_indexer": "/Applications/codelite.app/Contents/MacOS/codelite-ctags",
+ "codelite_indexer": "C:\\Program Files\\CodeLite\\codelite-ctags.exe",
  "limit_results": 150,
- "search_path": [".", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks ", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1", "/Library/Developer/CommandLineTools/usr/include", "/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"],
+ "search_path": [".", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks ", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1", "/Library/Developer/CommandLineTools/usr/include", "/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include", "C:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include", "C:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include-fixed", "C:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++", "C:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\backward", "C:\\MinGW64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++\\x86_64-w64-mingw32", "C:\\MinGW64\\x86_64-w64-mingw32\\include", "\\Library\\Developer\\CommandLineTools\\SDKs\\MacOSX.sdk\\System\\Library\\Frameworks", "\\Library\\Developer\\CommandLineTools\\SDKs\\MacOSX.sdk\\usr\\include", "\\Library\\Developer\\CommandLineTools\\SDKs\\MacOSX.sdk\\usr\\include\\c++\\v1", "\\Library\\Developer\\CommandLineTools\\usr\\include", "\\Library\\Developer\\CommandLineTools\\usr\\lib\\clang\\13.1.6\\include"],
  "types": [{
    "key": "std::unique_ptr::pointer",
    "value": "_Tp"
@@ -930,19 +930,25 @@
    "key": "WXDLLIMPEXP_DATA_CORE(%0)",
    "value": "%0"
   }, {
-   "key": "__APPLE__",
+   "key": "__WXMSW__",
+   "value": "1"
+  }, {
+   "key": "_WIN32",
+   "value": "1"
+  }, {
+   "key": "_WIN64",
    "value": "1"
   }, {
    "key": "wxTopLevelWindowNative",
-   "value": "wxTopLevelWindowMac"
+   "value": "wxTopLevelWindowMSW"
+  }, {
+   "key": "wxWindow",
+   "value": "wxWindowMSW"
   }, {
    "key": "wxWindowNative",
-   "value": "wxWindowMac"
+   "value": "wxWindowMSW"
   }, {
    "key": "BUTTON_BASE",
    "value": "wxControl"
-  }, {
-   "key": "wxWindow",
-   "value": "wxWindowMac"
   }]
 }

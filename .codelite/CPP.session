@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="/Users/julianoseng/Documents/CPP/CPP.workspace">
+<Session Name="C:\Code\CPP\CPP.workspace">
   <int Value="0" Name="m_selectedTab"/>
+<<<<<<< HEAD
   <wxString Value="/Users/julianoseng/Documents/CPP/CPP.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/Users/julianoseng/Documents/CPP/variables_and_stuff/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="13" Name="CurrentLine"/>
+=======
+  <wxString Value="C:\Code\CPP\CPP.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Code\CPP\Constants\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+>>>>>>> 803ad1d14018f6f0c53a2cc4194b2dd7f4a3c03f
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
